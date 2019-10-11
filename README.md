@@ -21,6 +21,8 @@ The matrix container can be run directly to fire up an instance of the Matrix on
 
 ```bash
 
+# Press 'q' or 'CTRL-C' to exit the animation
+
 $ podman run -it matrix
 
 ```
