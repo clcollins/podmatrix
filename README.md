@@ -4,6 +4,8 @@ Inspired by [Christian Labisch](https://www.redhat.com/sysadmin/users/christian-
 
 There's nothing new here, just a fun image and toy!
 
+![Matrix in a Terminal](/img/matrix.png)
+
 ## How to build
 
 Christian's article used Podman to create a container and modify it to add the cmatrix binary.  This example has a Dockerfile, and can be built with Podman to create the image directly.  The best thing about Podman: it can be run as your normal unprivileged user without root or sudo!
