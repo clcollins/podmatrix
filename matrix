@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+function exit() {
+  exit 0
+}
+
+/usr/bin/cmatrix
+
+trap exit EXIT SIGINT SIGKILL SIGTERM
