@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # PodMatrix
 
 Inspired by [Christian Labisch](https://www.redhat.com/sysadmin/users/christian-labisch)'s article [Enter the Matrix: Create your own containerized Matrix animation](https://www.redhat.com/sysadmin/containerized-matrix-animation), I thought it would be fun to recreate the neat little exercise built into an image directly.
